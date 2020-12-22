@@ -1,6 +1,6 @@
 {
   "name": "fun2mod",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[nodejs] Function to module exporter",
   "main": "index.js",
   "keywords": [
