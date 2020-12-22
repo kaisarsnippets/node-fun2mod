@@ -1,5 +1,5 @@
-# Fun2Mod [NodeJS]
-Function to module exporter
+# Fun2Mod
+[nodejs] Function to module exporter
 
 ### Install
 ```
